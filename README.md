@@ -13,7 +13,8 @@ For detailed documentation, please refer to the PDF below:
 
 - [Download the PDF](https://github.com/Andrea-Graziano-Gitto/Fertility-Decline-in-Unstable-Times_Andrea-Graziano-Gitto/blob/main/PDF%20Andrea%20Graziano%20Gitto%20-%20Coding2%20Project%20-%20Fertility%20Decline%20in%20Unstable%20Times.pdf)
 - [View the PDF](https://github.com/Andrea-Graziano-Gitto/Fertility-Decline-in-Unstable-Times_Andrea-Graziano-Gitto/blob/main/PDF%20Andrea%20Graziano%20Gitto%20-%20Coding2%20Project%20-%20Fertility%20Decline%20in%20Unstable%20Times.pdf)
-- [Download the Notebook Html](https://github.com/Andrea-Graziano-Gitto/Fertility-Decline-in-Unstable-Times_Andrea-Graziano-Gitto/blob/main/HTML%20Andrea%20Graziano%20Gitto%20-%20Coding2%20Project%20-%20Fertility%20Decline%20in%20Unstable%20Times.html)
+- [Download The Notebook HTML](https://github.com/Andrea-Graziano-Gitto/Fertility-Decline-in-Unstable-Times_Andrea-Graziano-Gitto/raw/main/HTML%20Andrea%20Graziano%20Gitto%20-%20Coding2%20Project%20-%20Fertility%20Decline%20in%20Unstable%20Times.html)
+
 
 ## Preview
 ![Ethical Simulation Preview](https://github.com/Andrea-Graziano-Gitto/Fertility-Decline-in-Unstable-Times_Andrea-Graziano-Gitto/blob/main/JPG%20Andrea%20Graziano%20Gitto%20-%20Coding2%20Project%20-%20Fertility%20Decline%20in%20Unstable%20Times.jpg)
